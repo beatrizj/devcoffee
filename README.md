@@ -1,5 +1,3 @@
-# DevCoffee
-
 Landing page desenvolvida utilizando HTML, CSS e JavaScript. Utilizei como base o vídeo do canal Rafaella Ballerini no YouTube e implementei a responsividade e o menu lateral da versão mobile.
 
 # Versão desktop:
