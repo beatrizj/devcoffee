@@ -41,6 +41,12 @@ devcoffee/
 
 ---
 
+## 📸 Live Preview
+
+> 💻 **Live Preview:** [https://beatrizj.github.io/devcoffee](https://beatrizj.github.io/devcoffee/)
+
+---
+
 ## 🛠️ How to Run Locally:
 
 1. Clone the repository:
